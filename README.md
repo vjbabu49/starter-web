@@ -14,3 +14,8 @@ Sample website with plenty of files for demos
 ## Deployment
 
 deploying today
+
+
+
+###Copyright
+All rights reserved
