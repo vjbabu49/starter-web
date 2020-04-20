@@ -6,7 +6,9 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+   
+    don't like reviews
+   
     <name>
 
 # TECHNOLOGY COLOPHON
