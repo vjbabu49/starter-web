@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-blahblablah is a very good blah
+blahblablah is a very good blah. Editing again and again
 
 
 ## Purpose
